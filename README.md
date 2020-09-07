@@ -26,20 +26,25 @@ Features of machine learning libraries are:
 1) They provide a specific capability for one or more steps in a machine learning project.
 2) The interface is typically an application programming interface requiring programming.
 3) They are tailored for a specific use case, problem type or environment.
+
 Scikit-learn (sklearn) is a free software machine learning library for the Python
 programming language.It features various classification, regression and clustering algorithms
 including support vector machines, random forests, gradient boosting, k-means and DBSCAN,
 and is designed to interoperate with the Python numerical and scientific libraries NumPy and
 SciPy.
+
 Pandas is a software library written for the Python programming language for data
 manipulation and analysis. In particular, it offers data structures and operations for manipulating
 numerical tables and time series.
+
 The Natural Language Toolkit, or more commonly NLTK, is a suite of libraries and
 programs for symbolic and statistical natural language processing (NLP) for English written in the
 Python programming language.
+
 Numpy is a library for the Python programming language, adding support for large,
 multi-dimensional arrays and matrices, along with a large collection of high-level mathematical
 functions to operate on these arrays.
+
 I have used pandas for reading csv files and managing dataframes. I have used sklearn’s
 metrics.pairwise for cosine_similarity and feature_extraction.text for CountVectorizer.Also nltk is
 used for stopwords, lemmatization etc.Numpy is used for mathematical computations.
