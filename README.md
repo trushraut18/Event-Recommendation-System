@@ -11,7 +11,7 @@
 4) results.xlsx
 => This excel file is output file which contains recommended employees with event name.
 
-## Problem Decription
+## Problem Description
 
  This Recommender System will recommend relevant events to each employee  based 
  on their preference.First it will check for preference1 and then preference2.
